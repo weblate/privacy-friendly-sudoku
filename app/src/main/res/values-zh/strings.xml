@@ -43,7 +43,7 @@
     <!-- ###ABOUT### -->
     <string name="version_number">版本：</string>
     <string name="about_author">作者：</string>
-    <string name="about_author_contributors">以及贡献者。</string>
+    <string name="about_author_contributors">及贡献者们.</string>
     <string name="about_affiliation">隶属于</string>
     <string name="privacy_friendly">本应用属于卡尔斯鲁厄理工学院开发的“隐私友好型应用”系列。源代码采用 GPLv3 许可。图像版权归卡尔斯鲁厄理工学院和 Google Inc. 所有。</string>
     <string name="more_info">更多信息请访问：</string>
@@ -51,7 +51,7 @@
     <!-- ###GameDifficulty### -->
     <string name="difficulty_easy">简单的</string>
     <string name="difficulty_moderate">普通</string>
-    <string name="difficulty_hard">困难的</string>
+    <string name="difficulty_hard">困难</string>
     <string name="difficulty_custom">定制</string>
     <!--###GameActivity -->
     <string name="gametype_unspecified">未详细说明</string>
